@@ -1,0 +1,1 @@
+This is my attempt at creating a 3d raytracing program without any help. All code within this repository has been written by me.
